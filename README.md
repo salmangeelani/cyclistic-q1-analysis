@@ -58,7 +58,7 @@ This project analyzes Q1 2019 and Q1 2020 ride data from Cyclistic (based on Div
 
 ## 🔗 Live Report (Optional)
 
-[👉 View the full HTML report]([https://salmangeelani.github.io/cyclistic-q1-analysis/cyclistic_q1_analysis.html]
+[👉 View the full HTML report]([https://cebda0e96dd5427aa872acc92c138e38.app.posit.cloud/file_show?path=%2Fcloud%2Fproject%2FCyclistic-Q1-Ride-Analysis.html])
 
 ---
 
