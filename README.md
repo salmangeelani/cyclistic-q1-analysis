@@ -26,13 +26,13 @@ This project analyzes Q1 2019 and Q1 2020 ride data from Cyclistic (based on Div
 
 ### ✅ Average Ride Length by Season and User Type
 
-![Average Ride Length Chart](images/avg_ride_length_by_season.png)
+![Average Ride Length Chart](avg_ride_length_by_season.png)
 
 ---
 
 ### 📆 Average Ride Length by Day of the Week
 
-![Average Ride Length by Day](images/avg_ride_length_by_day.png)
+![Average Ride Length by Day](avg_ride_length_by_day.png)
 
 ---
 
